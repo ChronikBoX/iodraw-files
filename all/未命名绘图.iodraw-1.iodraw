@@ -28,7 +28,7 @@
         <mxCell id="Aja3VK5m5lContNEB1Om-8" value="配置参数区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Aja3VK5m5lContNEB1Om-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aja3VK5m5lContNEB1Om-9" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(249, 250, 251); text-align: start; margin: 0px !important;&quot;&gt; 0x001000 &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Aja3VK5m5lContNEB1Om-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="Aja3VK5m5lContNEB1Om-13" value="积压通知链表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Aja3VK5m5lContNEB1Om-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aja3VK5m5lContNEB1Om-14" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(249, 250, 251); text-align: start; margin: 0px !important;&quot;&gt;0x002000 &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Aja3VK5m5lContNEB1Om-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
